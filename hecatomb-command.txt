@@ -1,0 +1,2 @@
+conda activate hecatomb
+hecatomb run --reads S-GE- --output S-GE.out
